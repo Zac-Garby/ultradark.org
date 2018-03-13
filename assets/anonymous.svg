@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <path id="a" d="M12 18c6.627 0 12 5.373 12 12v6H0v-6c0-6.627 5.373-12 12-12z"/>
+        <path id="b" d="M12 18c6.627 0 12 5.373 12 12v6H0v-6c0-6.627 5.373-12 12-12z"/>
+        <path id="c" d="M15 22c8.284 0 15 6.716 15 15v6.5H0V37c0-8.284 6.716-15 15-15z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="60" cy="60" r="60" fill="#39CBF5"/>
+        <g transform="translate(30 41)">
+            <circle cx="12" cy="7" r="7" fill="#46CEF5" stroke="#FFF" stroke-width="1.5"/>
+            <use fill="#46CEF5" xlink:href="#a"/>
+            <path stroke="#FFF" stroke-width="1.5" d="M.75 35.25h22.5V30c0-6.213-5.037-11.25-11.25-11.25S.75 23.787.75 30v5.25z"/>
+        </g>
+        <g transform="translate(66 41)">
+            <circle cx="12" cy="7" r="7" fill="#46CEF5" stroke="#FFF" stroke-width="1.5"/>
+            <use fill="#46CEF5" xlink:href="#b"/>
+            <path stroke="#FFF" stroke-width="1.5" d="M.75 35.25h22.5V30c0-6.213-5.037-11.25-11.25-11.25S.75 23.787.75 30v5.25z"/>
+        </g>
+        <g transform="translate(45 38)">
+            <circle cx="15" cy="8" r="8" fill="#46CEF5" stroke="#FFF" stroke-width="1.8"/>
+            <use fill="#46CEF5" xlink:href="#c"/>
+            <path stroke="#FFF" stroke-width="1.8" d="M.9 42.6h28.2V37c0-7.787-6.313-14.1-14.1-14.1S.9 29.213.9 37v5.6z"/>
+        </g>
+    </g>
+</svg>
