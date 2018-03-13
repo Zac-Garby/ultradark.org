@@ -1,6 +1,6 @@
 # ultradark.org
 
-This is the source for the [ultradark website](https://ultradark.org).
+This is the source for the [ultradark website](https://www.ultradark.org).
 
 It's not complete yet. Here's a list of what needs to be done:
 
