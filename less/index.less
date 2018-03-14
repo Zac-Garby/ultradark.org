@@ -46,6 +46,7 @@ section#nav {
 
     div#left, div#right {
         flex: 1;
+        padding-left: 20px;
     }
 
     div#links {
@@ -192,6 +193,10 @@ section#footer {
             height: @nav-height / 2;
         }
 
+        div#left {
+            margin-left: 0;
+        }
+
         div#right {
             display: none;
         }
@@ -243,7 +248,7 @@ section#footer {
 @media only screen and (max-width: 450px) {
     section#nav div#links {
         height: auto;
-        
+
         a {
             display: block;
             height: 1.5em;
